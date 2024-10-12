@@ -1,4 +1,5 @@
-# Previsão de Gols no Primeiro Tempo com Redes Neurais
+#Modelos de inteligência artificial para previsão de ocorrência de ao menos um gol no primeiro tempo de partidas do campeonato inglês de futebol (Premier League).
+
 
 Este projeto utiliza uma rede neural para prever a ocorrência de ao menos um gol no primeiro tempo de partidas da Premier League. A rede é desenvolvida utilizando PyTorch e é treinada com dados estatísticos dos jogos.
 
