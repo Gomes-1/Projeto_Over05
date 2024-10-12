@@ -33,7 +33,6 @@ O objetivo deste projeto é aplicar técnicas de deep learning para prever se ha
 
 Para treinar a rede neural com um conjunto de dados específico, utilize a função `redeNeural()` passando os parâmetros necessários:
 
-- ```python
 - hidden_size = 500
 - redeNeural("Nome_do_Projeto", 0.8, 0.03, 20000, hidden_size, "premier-league-2023-2024-1")
 
